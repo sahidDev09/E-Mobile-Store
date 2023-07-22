@@ -7,7 +7,7 @@ const Product = (curElem) => {
   const { id, name, image, price, category } = curElem;
 
   return (
-    <div className="cards sm:grid-cols-3 bg-slate-300 hover:bg-slate-200 hover:scale-105 transition-all">
+    <div className="cards sm:grid-cols-3 bg-slate-100 hover:bg-slate-200 hover:scale-105 transition-all">
       <div className="flex items-center">
         <div className="">
           <img className="foodimg ml-3 w-[200px]" src={image} alt="" />
