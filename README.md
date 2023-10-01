@@ -1,4 +1,4 @@
-HERE YOU CAN SEE THE LIVE-PREVIEW
+HERE YOU CAN SEE THE LIVE PREVIEW
 
 https://e-mobile-storea.netlify.app/
 
